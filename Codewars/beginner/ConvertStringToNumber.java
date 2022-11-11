@@ -1,7 +1,7 @@
 package beginner;
 
 /**
- * Ссылка на задачу: <a href="https://www.codewars.com/kata/544675c6f971f7399a000e79/train/java">...</a>а
+ * Ссылка на задачу: https://www.codewars.com/kata/544675c6f971f7399a000e79/train/java
  */
 
 public class ConvertStringToNumber {

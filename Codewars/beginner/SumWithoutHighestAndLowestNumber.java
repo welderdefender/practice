@@ -3,7 +3,7 @@ package beginner;
 import java.util.Arrays;
 
 /**
- * Ссылка на задачу: <a href="https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/java">...</a>а
+ * Ссылка на задачу: https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/java
  */
 
 public class SumWithoutHighestAndLowestNumber {
