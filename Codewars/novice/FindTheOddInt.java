@@ -13,7 +13,7 @@ Examples
 [1,2,2,3,3,3,4,3,3,3,2,2,1] should return 4, because it appears 1 time (which is odd).
 
 Ссылка на задачу: https://www.codewars.com/kata/54da5a58ea159efa38000836/train/java
- */
+*/
 
 public class FindTheOddInt {
     public static int findIt(int[] a) {
