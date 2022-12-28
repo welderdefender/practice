@@ -49,15 +49,15 @@ Good luck!
 Ссылка на задачу: https://www.codewars.com/kata/54b724efac3d5402db00065e/train/java
 */
 
-public class DecodeTheMorseCode {
-    public static String decode(String morseCode) {
-        StringBuilder result = new StringBuilder();
-        for (String word : morseCode.trim().split("   ")) {
-            for (String letter : word.split("\\s+")) {
-                result.append(MorseCode.get(letter));
-            }
-            result.append(' ');
-        }
-        return result.toString().trim();
-    }
-}
+//public class DecodeTheMorseCode {
+//    public static String decode(String morseCode) {
+//        StringBuilder result = new StringBuilder();
+//        for (String word : morseCode.trim().split("   ")) {
+//            for (String letter : word.split("\\s+")) {
+//                result.append(MorseCode.get(letter));
+//            }
+//            result.append(' ');
+//        }
+//        return result.toString().trim();
+//    }
+//}
